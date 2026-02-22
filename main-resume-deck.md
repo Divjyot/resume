@@ -27,7 +27,7 @@
 
 <table>
 <tr>
-<td width="20%" align="center">
+<td width="20%" align="center" valign="top">
 
 <img src="https://avatars.githubusercontent.com/u/33970009?v=4" width="65" height="65" style="background:#f5f5f5; padding:6px; border-radius:12px;" alt="Westpac logo"/><br/>
 **Westpac**<br/>
@@ -36,7 +36,7 @@ Senior AI Engineer<br/>
 <sub>Australia's oldest bank & Big Four pillar — serving 13M+ customers since 1817</sub>
 
 </td>
-<td width="20%" align="center">
+<td width="20%" align="center" valign="top">
 
 <img src="logos/bain.png" width="150" style="background:#f5f5f5; padding:10px 14px; border-radius:12px;" alt="Bain logo"/><br/>
 **Bain & Company**<br/>
@@ -45,7 +45,7 @@ Sr. ML Engineer<br/>
 <sub>Global top-3 strategy consultancy (MBB) advising the world's most ambitious companies</sub>
 
 </td>
-<td width="20%" align="center">
+<td width="20%" align="center" valign="top">
 
 <img src="logos/maxkelsen.png" width="65" height="65" style="background:#f5f5f5; padding:6px; border-radius:12px;" alt="Max Kelsen logo"/><br/>
 **Max Kelsen**<br/>
@@ -54,7 +54,7 @@ ML Consultant<br/>
 <sub>Brisbane-born AI powerhouse delivering deep-tech solutions for enterprise & healthcare</sub>
 
 </td>
-<td width="20%" align="center">
+<td width="20%" align="center" valign="top">
 
 <img src="logos/ncs.png" width="130" style="background:#f5f5f5; padding:10px 14px; border-radius:12px;" alt="NCS logo"/><br/>
 **ARQ / NCS Group**<br/>
@@ -63,7 +63,7 @@ ML Consultant<br/>
 <sub>APAC's leading technology services firm — a Singtel subsidiary with 13,000+ engineers</sub>
 
 </td>
-<td width="20%" align="center">
+<td width="20%" align="center" valign="top">
 
 <img src="logos/ire.png" width="150" style="background:#f5f5f5; padding:10px 14px; border-radius:12px;" alt="IRE logo"/><br/>
 **InspectRealEstate**<br/>
@@ -369,16 +369,17 @@ Where production ML became real — building customer-facing AI products in real
 
 </div>
 
+<div align="center">
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
 
 ### 🎓 Master of Engineering Science
 **Software Management** | GPA 5.81<br/>
 University of Queensland | 2018
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
 
 ### 🎓 Bachelor of CS & Engineering
 **Honours** | CGPA 8.51<br/>
@@ -387,6 +388,7 @@ Panjab University | 2016
 </td>
 </tr>
 </table>
+</div>
 
 <div align="center">
 
