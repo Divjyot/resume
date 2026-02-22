@@ -13,11 +13,7 @@
 
 </div>
 
-<br/>
-
 ---
-
-<br/>
 
 <!-- ======================== SLIDE: AT A GLANCE ======================== -->
 
@@ -79,17 +75,13 @@ ML & Ops Engineer<br/>
 </tr>
 </table>
 
-<br/>
-
 ---
-
-<br/>
 
 <!-- ======================== SLIDE: WESTPAC ======================== -->
 
 <table>
 <tr>
-<td width="57%">
+<td width="95%">
 
 <img src="https://avatars.githubusercontent.com/u/33970009?v=4" width="55" height="55" style="background:#f5f5f5; padding:6px; border-radius:10px;" alt="Westpac logo"/>
 
@@ -103,12 +95,6 @@ Building the next generation of internal AI tooling at one of Australia's Big Fo
 - Delivering internal solution using AI Agentic workflows
 
 </td>
-<td width="38%" align="center">
-
-<!-- Generate with the Ghibli prompt for Westpac, save as photos/westpac.png -->
-<img src="photos/westpac.png" width="350" alt="Westpac chapter"/>
-
-</td>
 <td width="5%" align="center" valign="middle">
 
 **&#x25CF;**<br/><sub><b>2025</b></sub><br/><sub>&#x2502;</sub><br/><sub>&#x2502;</sub><br/><sub>&#x2502;</sub>
@@ -117,23 +103,13 @@ Building the next generation of internal AI tooling at one of Australia's Big Fo
 </tr>
 </table>
 
-<br/>
-
 ---
-
-<br/>
 
 <!-- ======================== SLIDE: BAIN ======================== -->
 
 <table>
 <tr>
-<td width="38%" align="center">
-
-<!-- Generate with the Ghibli prompt for Bain, save as photos/bain.png -->
-<img src="photos/bain.png" width="350" alt="Bain chapter"/>
-
-</td>
-<td width="57%">
+<td width="95%">
 
 <img src="logos/bain.png" width="170" style="background:#f5f5f5; padding:10px 14px; border-radius:10px;" alt="Bain logo"/>
 
@@ -151,8 +127,6 @@ Led GenAI delivery across **5 major projects** spanning pharma, entertainment, c
 </td>
 </tr>
 </table>
-
-<br/>
 
 <div align="center">
 
@@ -186,17 +160,13 @@ Led GenAI delivery across **5 major projects** spanning pharma, entertainment, c
 </tr>
 </table>
 
-<br/>
-
 ---
-
-<br/>
 
 <!-- ======================== SLIDE: MAX KELSEN ======================== -->
 
 <table>
 <tr>
-<td width="57%">
+<td width="95%">
 
 <img src="logos/maxkelsen.png" width="55" height="55" style="background:#f5f5f5; padding:6px; border-radius:10px;" alt="Max Kelsen logo"/>
 
@@ -205,12 +175,6 @@ Led GenAI delivery across **5 major projects** spanning pharma, entertainment, c
 `Sept 2022 – Aug 2023`
 
 Architected production MLOps for banking and delivered ML-driven clinical research for healthcare.
-
-</td>
-<td width="38%" align="center">
-
-<!-- Generate with the Ghibli prompt for Max Kelsen, save as photos/maxkelsen.png -->
-<img src="photos/maxkelsen.png" width="350" alt="Max Kelsen chapter"/>
 
 </td>
 <td width="5%" align="center" valign="middle">
@@ -238,23 +202,13 @@ Architected production MLOps for banking and delivered ML-driven clinical resear
 </tr>
 </table>
 
-<br/>
-
 ---
-
-<br/>
 
 <!-- ======================== SLIDE: ARQ ======================== -->
 
 <table>
 <tr>
-<td width="38%" align="center">
-
-<!-- Generate with the Ghibli prompt for ARQ, save as photos/arq.png -->
-<img src="photos/arq.png" width="350" alt="ARQ chapter"/>
-
-</td>
-<td width="57%">
+<td width="95%">
 
 <img src="logos/ncs.png" width="140" style="background:#f5f5f5; padding:10px 14px; border-radius:10px;" alt="NCS logo"/>
 
@@ -302,17 +256,13 @@ Four diverse projects: fire prediction, logistics forecasting, public opinion an
 </tr>
 </table>
 
-<br/>
-
 ---
-
-<br/>
 
 <!-- ======================== SLIDE: IRE ======================== -->
 
 <table>
 <tr>
-<td width="57%">
+<td width="95%">
 
 <img src="logos/ire.png" width="170" style="background:#f5f5f5; padding:10px 14px; border-radius:10px;" alt="IRE logo"/>
 
@@ -321,12 +271,6 @@ Four diverse projects: fire prediction, logistics forecasting, public opinion an
 `Mar 2019 – Sept 2021`
 
 Where production ML became real — building customer-facing AI products in real estate.
-
-</td>
-<td width="38%" align="center">
-
-<!-- Generate with the Ghibli prompt for IRE, save as photos/ire.png -->
-<img src="photos/ire.png" width="350" alt="IRE chapter"/>
 
 </td>
 <td width="5%" align="center" valign="middle">
@@ -354,11 +298,7 @@ Where production ML became real — building customer-facing AI products in real
 </tr>
 </table>
 
-<br/>
-
 ---
-
-<br/>
 
 <!-- ======================== SLIDE: SKILLS ======================== -->
 
@@ -386,8 +326,6 @@ Where production ML became real — building customer-facing AI products in real
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
-
-<br/>
 
 <table>
 <tr>
@@ -421,11 +359,7 @@ Where production ML became real — building customer-facing AI products in real
 </tr>
 </table>
 
-<br/>
-
 ---
-
-<br/>
 
 <!-- ======================== SLIDE: EDUCATION ======================== -->
 
@@ -454,8 +388,6 @@ Panjab University | 2016
 </tr>
 </table>
 
-<br/>
-
 <div align="center">
 
 | Award | Where | Year |
@@ -466,11 +398,7 @@ Panjab University | 2016
 
 </div>
 
-<br/>
-
 ---
-
-<br/>
 
 <!-- ======================== SLIDE: BEYOND WORK ======================== -->
 
@@ -486,7 +414,7 @@ Panjab University | 2016
 <tr>
 <td width="33%" align="center" valign="top">
 
-<img src="photos/volunteering.png" width="300" alt="Community"/>
+<img src="https://static.wixstatic.com/media/167b0e_8991038264b14678ba6a84a73a3d82d0~mv2.png/v1/fill/w_112,h_62,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/167b0e_8991038264b14678ba6a84a73a3d82d0~mv2.png" height="60" style="background:#f5f5f5; padding:8px 12px; border-radius:10px;" alt="YSPN logo"/>
 
 ### Community
 
@@ -499,7 +427,7 @@ Teaching kids to code with Lego Mindstorms. Road trips to rural Australia.
 </td>
 <td width="33%" align="center" valign="top">
 
-<img src="photos/vr-thesis.png" width="300" alt="VR Research"/>
+<img src="https://cdn.prod.website-files.com/678e6d991abe09b73901f4e2/67b84906e9d57bd0aa0d7373_uqlogo.webp" height="90" style="background:#f5f5f5; padding:8px; border-radius:10px;" alt="UQ logo"/>
 
 ### Research
 
@@ -509,7 +437,7 @@ Built a VR game for children's health using sponsored CaptoGlove data gloves. Co
 </td>
 <td width="33%" align="center" valign="top">
 
-<img src="photos/germany.png" width="300" alt="Germany Exchange"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/University_of_T%C3%BCbingen_logo.svg/200px-University_of_T%C3%BCbingen_logo.svg.png" height="60" style="background:#f5f5f5; padding:8px; border-radius:10px;" alt="University of Tubingen logo"/>
 
 ### Global
 
@@ -520,11 +448,7 @@ International & European Studies exchange. Topped the German Language class.
 </tr>
 </table>
 
-<br/>
-
 ---
-
-<br/>
 
 <!-- ======================== SLIDE: CLOSING ======================== -->
 
@@ -534,6 +458,5 @@ International & European Studies exchange. Topped the German Language class.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Divjyot-181717?style=for-the-badge&logo=github)](https://github.com/Divjyot)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)
-
 
 </div>
