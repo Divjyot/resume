@@ -105,11 +105,8 @@ Building the next generation of internal AI tooling at one of Australia's Big Fo
 </td>
 <td width="38%" align="center">
 
-<!-- 📸 DROP YOUR PHOTO HERE -->
-<!-- Replace the URL below with a photo from your Westpac chapter -->
-<img src="https://via.placeholder.com/350x250/1a1a2e/e94560?text=Your+Photo+Here" width="350" alt="Westpac chapter"/>
-<br/>
-<sub><i>Replace with your photo</i></sub>
+<!-- Generate with the Ghibli prompt for Westpac, save as photos/westpac.png -->
+<img src="photos/westpac.png" width="350" alt="Westpac chapter"/>
 
 </td>
 <td width="5%" align="center" valign="middle">
@@ -132,10 +129,8 @@ Building the next generation of internal AI tooling at one of Australia's Big Fo
 <tr>
 <td width="38%" align="center">
 
-<!-- 📸 DROP YOUR PHOTO HERE -->
-<img src="https://via.placeholder.com/350x250/0f3460/e94560?text=Your+Photo+Here" width="350" alt="Bain chapter"/>
-<br/>
-<sub><i>Replace with your photo</i></sub>
+<!-- Generate with the Ghibli prompt for Bain, save as photos/bain.png -->
+<img src="photos/bain.png" width="350" alt="Bain chapter"/>
 
 </td>
 <td width="57%">
@@ -214,10 +209,8 @@ Architected production MLOps for banking and delivered ML-driven clinical resear
 </td>
 <td width="38%" align="center">
 
-<!-- 📸 DROP YOUR PHOTO HERE -->
-<img src="https://via.placeholder.com/350x250/16213e/e94560?text=Your+Photo+Here" width="350" alt="Max Kelsen chapter"/>
-<br/>
-<sub><i>Replace with your photo</i></sub>
+<!-- Generate with the Ghibli prompt for Max Kelsen, save as photos/maxkelsen.png -->
+<img src="photos/maxkelsen.png" width="350" alt="Max Kelsen chapter"/>
 
 </td>
 <td width="5%" align="center" valign="middle">
@@ -257,10 +250,8 @@ Architected production MLOps for banking and delivered ML-driven clinical resear
 <tr>
 <td width="38%" align="center">
 
-<!-- 📸 DROP YOUR PHOTO HERE -->
-<img src="https://via.placeholder.com/350x250/1a1a2e/0f3460?text=Your+Photo+Here" width="350" alt="ARQ chapter"/>
-<br/>
-<sub><i>Replace with your photo</i></sub>
+<!-- Generate with the Ghibli prompt for ARQ, save as photos/arq.png -->
+<img src="photos/arq.png" width="350" alt="ARQ chapter"/>
 
 </td>
 <td width="57%">
@@ -334,10 +325,8 @@ Where production ML became real — building customer-facing AI products in real
 </td>
 <td width="38%" align="center">
 
-<!-- 📸 DROP YOUR PHOTO HERE -->
-<img src="https://via.placeholder.com/350x250/533483/e94560?text=Your+Photo+Here" width="350" alt="IRE chapter"/>
-<br/>
-<sub><i>Replace with your photo</i></sub>
+<!-- Generate with the Ghibli prompt for IRE, save as photos/ire.png -->
+<img src="photos/ire.png" width="350" alt="IRE chapter"/>
 
 </td>
 <td width="5%" align="center" valign="middle">
@@ -497,8 +486,7 @@ Panjab University | 2016
 <tr>
 <td width="33%" align="center" valign="top">
 
-<!-- 📸 DROP YOUR PHOTO HERE -->
-<img src="https://via.placeholder.com/300x200/0f3460/e94560?text=Volunteering" width="300" alt="volunteering"/>
+<img src="photos/volunteering.png" width="300" alt="Community"/>
 
 ### Community
 
@@ -511,8 +499,7 @@ Teaching kids to code with Lego Mindstorms. Road trips to rural Australia.
 </td>
 <td width="33%" align="center" valign="top">
 
-<!-- 📸 DROP YOUR PHOTO HERE -->
-<img src="https://via.placeholder.com/300x200/16213e/e94560?text=VR+Thesis" width="300" alt="vr thesis"/>
+<img src="photos/vr-thesis.png" width="300" alt="VR Research"/>
 
 ### Research
 
@@ -522,8 +509,7 @@ Built a VR game for children's health using sponsored CaptoGlove data gloves. Co
 </td>
 <td width="33%" align="center" valign="top">
 
-<!-- 📸 DROP YOUR PHOTO HERE -->
-<img src="https://via.placeholder.com/300x200/533483/e94560?text=Germany" width="300" alt="germany exchange"/>
+<img src="photos/germany.png" width="300" alt="Germany Exchange"/>
 
 ### Global
 
