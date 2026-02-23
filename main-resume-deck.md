@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-<table>
+<table width="100%">
 <tr>
 <td width="20%" align="center" valign="top">
 
@@ -82,7 +82,7 @@ ML & Ops Engineer<br/>
 <!-- ======================== SLIDE: WESTPAC ======================== -->
 
 <div align="center">
-<table>
+<table width="100%">
 <tr>
 <td width="90%">
 
@@ -112,7 +112,7 @@ Building the next generation of internal AI tooling at one of Australia's Big Fo
 <!-- ======================== SLIDE: BAIN ======================== -->
 
 <div align="center">
-<table>
+<table width="100%">
 <tr>
 <td width="90%">
 
@@ -141,7 +141,7 @@ Led GenAI delivery across **5 major projects** spanning pharma, entertainment, c
 </div>
 
 <div align="center">
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -173,7 +173,7 @@ Led GenAI delivery across **5 major projects** spanning pharma, entertainment, c
 <!-- ======================== SLIDE: MAX KELSEN ======================== -->
 
 <div align="center">
-<table>
+<table width="100%">
 <tr>
 <td width="90%">
 
@@ -196,7 +196,7 @@ Architected production MLOps for banking and delivered ML-driven clinical resear
 </div>
 
 <div align="center">
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -219,7 +219,7 @@ Architected production MLOps for banking and delivered ML-driven clinical resear
 <!-- ======================== SLIDE: ARQ ======================== -->
 
 <div align="center">
-<table>
+<table width="100%">
 <tr>
 <td width="90%">
 
@@ -242,7 +242,7 @@ Four diverse projects: fire prediction, logistics forecasting, public opinion an
 </div>
 
 <div align="center">
-<table>
+<table width="100%">
 <tr>
 <td width="25%" align="center" valign="top">
 
@@ -277,7 +277,7 @@ Four diverse projects: fire prediction, logistics forecasting, public opinion an
 <!-- ======================== SLIDE: IRE ======================== -->
 
 <div align="center">
-<table>
+<table width="100%">
 <tr>
 <td width="90%">
 
@@ -300,7 +300,7 @@ Where production ML became real — building customer-facing AI products in real
 </div>
 
 <div align="center">
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -348,7 +348,7 @@ Where production ML became real — building customer-facing AI products in real
 </div>
 
 <div align="center">
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -392,7 +392,7 @@ Where production ML became real — building customer-facing AI products in real
 </div>
 
 <div align="center">
-<table>
+<table width="100%">
 <tr>
 <td width="50%" align="center" valign="middle">
 
@@ -435,7 +435,7 @@ Panjab University | 2016
 </div>
 
 <div align="center">
-<table>
+<table width="100%">
 <tr>
 <td width="33%" align="center" valign="top">
 
