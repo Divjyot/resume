@@ -85,7 +85,7 @@ ML & Ops Engineer<br/>
 <div align="center">
 <table width="100%">
 <tr>
-<td>
+<td align="center">
 
 <div align="right"><sup><b>&#x25CF; 2025</b></sup></div>
 
@@ -113,7 +113,7 @@ Building the next generation of internal AI tooling at one of Australia's Big Fo
 <div align="center">
 <table width="100%">
 <tr>
-<td colspan="2">
+<td colspan="2" align="center">
 
 <div align="right"><sup><b>&#x25CF; 2023</b></sup></div>
 
@@ -163,7 +163,7 @@ Led GenAI delivery across **5 major projects** spanning pharma, entertainment, c
 <div align="center">
 <table width="100%">
 <tr>
-<td colspan="2">
+<td colspan="2" align="center">
 
 <div align="right"><sup><b>&#x25CF; 2022</b></sup></div>
 
@@ -202,7 +202,7 @@ Architected production MLOps for banking and delivered ML-driven clinical resear
 <div align="center">
 <table width="100%">
 <tr>
-<td colspan="4">
+<td colspan="4" align="center">
 
 <div align="right"><sup><b>&#x25CF; 2021</b></sup></div>
 
@@ -253,7 +253,7 @@ Four diverse projects: fire prediction, logistics forecasting, public opinion an
 <div align="center">
 <table width="100%">
 <tr>
-<td colspan="2">
+<td colspan="2" align="center">
 
 <div align="right"><sup><b>&#x25CF; 2019</b></sup></div>
 
