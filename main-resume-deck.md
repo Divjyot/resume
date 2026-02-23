@@ -78,6 +78,7 @@ ML & Ops Engineer<br/>
 </div>
 
 ---
+<br/>
 
 <!-- ======================== SLIDE: WESTPAC ======================== -->
 
@@ -105,6 +106,7 @@ Building the next generation of internal AI tooling at one of Australia's Big Fo
 </div>
 
 ---
+<br/>
 
 <!-- ======================== SLIDE: BAIN ======================== -->
 
@@ -154,6 +156,7 @@ Led GenAI delivery across **5 major projects** spanning pharma, entertainment, c
 </div>
 
 ---
+<br/>
 
 <!-- ======================== SLIDE: MAX KELSEN ======================== -->
 
@@ -192,6 +195,7 @@ Architected production MLOps for banking and delivered ML-driven clinical resear
 </div>
 
 ---
+<br/>
 
 <!-- ======================== SLIDE: ARQ ======================== -->
 
@@ -242,6 +246,7 @@ Four diverse projects: fire prediction, logistics forecasting, public opinion an
 </div>
 
 ---
+<br/>
 
 <!-- ======================== SLIDE: IRE ======================== -->
 
@@ -280,6 +285,7 @@ Where production ML became real — building customer-facing AI products in real
 </div>
 
 ---
+<br/>
 
 <!-- ======================== SLIDE: SKILLS ======================== -->
 
@@ -343,6 +349,7 @@ Where production ML became real — building customer-facing AI products in real
 </div>
 
 ---
+<br/>
 
 <!-- ======================== SLIDE: EDUCATION ======================== -->
 
@@ -384,6 +391,7 @@ Panjab University | 2016
 </div>
 
 ---
+<br/>
 
 <!-- ======================== SLIDE: BEYOND WORK ======================== -->
 
