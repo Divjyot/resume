@@ -95,10 +95,12 @@ ML & Ops Engineer<br/>
 ### Senior AI Engineer
 `Dec 2025 – Present`
 
-Building the next generation of internal AI tooling at one of Australia's Big Four banks.
+Building the next generation of internal AI tooling at one of Australia's Big Four banks — 14M+ customers, $26B revenue.
 
 **WUP Migration Project**
-- Delivering internal solution using AI Agentic workflows
+- Designing and delivering an AI Agentic workflow to automate legacy migration tasks
+- Building multi-agent orchestration with tool-use, retrieval, and human-in-the-loop checkpoints
+- Reducing manual effort across teams through intelligent document parsing and decision routing
 
 </td>
 </tr>
@@ -133,22 +135,25 @@ Led GenAI delivery across **5 major projects** spanning pharma, entertainment, c
 <td width="50%" valign="top">
 
 **GenAI Compliance QnA** — *Indian Construction Co*
-> AI chatbot navigating labor laws across India's Central and State jurisdictions. Led end-to-end using LangChain, Azure AI Search, intent classification, and automated LLM evaluations.
+> AI chatbot navigating labor laws across India's Central and State jurisdictions. Led end-to-end using LangChain, Azure AI Search, intent classification, and automated LLM evaluations. Deployed iterative retrieval with re-ranking to handle ambiguous multi-jurisdiction queries.
 
 **GenAI Rules Engine** — *Australian Digital Imaging Co*
-> AWS Bedrock Claude converting English policies into rule engine rules. Covered >50% of modality/region combinations, reducing call centre bottlenecks.
+> AWS Bedrock Claude converting English policies into rule engine rules. Covered >50% of modality/region combinations, reducing call centre bottlenecks. Built validation framework to catch hallucinated rules before deployment.
 
 **GenAI for Greenlighting IP** — *Movie Production House*
-> Sentiment analysis + similarity search for greenlighting books, scripts, and games. Built modular DAG pipeline: scraping, analysis, vector search, LLM generation.
+> Sentiment analysis + similarity search for greenlighting books, scripts, and games. Built modular DAG pipeline: scraping, analysis, vector search, LLM generation. Delivered insights across 1,000+ titles to inform investment decisions.
 
 </td>
 <td width="50%" valign="top">
 
 **GenAI Email Generation** — *US Pharma Co*
-> Automated marketing emails via RAG pipeline with hybrid vector search. Multi-step generation: raw content, persona follow-ups, instruction enforcement, styling.
+> Automated marketing emails via RAG pipeline with hybrid vector search. Multi-step generation: raw content, persona follow-ups, instruction enforcement, styling. Achieved compliance with FDA/legal review constraints through guardrails and template enforcement.
 
 **Synthetic Data Generation** — *US Pharma Co*
-> Fine-tuned GPT-4 and LLaMA on custom patient datasets. Nested k-fold CV showed results comparable to traditional CTGAN models.
+> Fine-tuned GPT-4 and LLaMA on custom patient datasets. Nested k-fold CV showed results comparable to traditional CTGAN models. Enabled downstream analytics without exposing real PHI data.
+
+**Internal Tooling & Leadership**
+> Built reusable GenAI accelerators adopted across Bain's AAG practice. Mentored junior engineers and led technical design reviews across multiple case teams.
 
 </td>
 </tr>
@@ -181,13 +186,13 @@ Architected production MLOps for banking and delivered ML-driven clinical resear
 <td width="50%" valign="top">
 
 **MLOps for an Australian Bank** *(3 divisions)*
-> Built Google Cloud MLOps from scratch — Vertex AI pipelines, data drift (Evidently), quality checks (great-expectations), SHAP explainability, GitHub CI/CD across all environments.
+> Built Google Cloud MLOps from scratch — Vertex AI pipelines, data drift monitoring (Evidently), data quality checks (great-expectations), and SHAP explainability dashboards. Deployed GitHub Actions CI/CD across dev, staging, and prod. Served 3 business divisions with a single reusable platform, cutting model deployment time from weeks to hours.
 
 </td>
 <td width="50%" valign="top">
 
 **Predicting Adverse Outcomes in Pregnancies**
-> Answered 10+ research questions with clinically actionable ML insights. Built reusable data pipelines across Queensland hospital data with nested CV + hyperparameter tuning.
+> Answered 10+ clinical research questions with actionable ML insights for Queensland Health. Built reusable data pipelines across hospital datasets with nested cross-validation + hyperparameter tuning. Models identified high-risk patients earlier in care pathways, informing intervention strategies for clinicians.
 
 </td>
 </tr>
@@ -220,25 +225,25 @@ Four diverse projects: fire prediction, logistics forecasting, public opinion an
 <td width="25%" align="center" valign="top">
 
 **🔥 Fire Ignition**
-<br/><sub>Random forest on Databricks + Azure CI/CD with human-in-loop approvals</sub>
+<br/><sub>Random forest on Databricks predicting bushfire ignition risk from weather, terrain & vegetation data. Azure DevOps CI/CD with human-in-the-loop approval gates for model promotion.</sub>
 
 </td>
 <td width="25%" align="center" valign="top">
 
 **📦 Logistics Forecast**
-<br/><sub>AWS Forecast multivariate timeseries — accuracy improved many folds over prior solution</sub>
+<br/><sub>AWS Forecast multivariate timeseries predicting parcel volumes across 50+ distribution centres. Accuracy improved many folds over prior heuristic solution — directly informing staffing decisions.</sub>
 
 </td>
 <td width="25%" align="center" valign="top">
 
 **💬 Topic Modelling**
-<br/><sub>HDBSCAN + UMAP for public opinion. Net Promoter scoring on SageMaker pipelines</sub>
+<br/><sub>HDBSCAN + UMAP clustering for public opinion analysis on government services. Net Promoter scoring deployed on SageMaker pipelines with automated retraining.</sub>
 
 </td>
 <td width="25%" align="center" valign="top">
 
 **🕳️ Pothole Detection**
-<br/><sub>PyTorch ResNet50 on truck camera feeds. AWS CDK + SageMaker end-to-end</sub>
+<br/><sub>PyTorch ResNet50 fine-tuned on truck-mounted camera feeds for road surface defects. Full AWS CDK infrastructure + SageMaker endpoint serving real-time predictions.</sub>
 
 </td>
 </tr>
@@ -263,7 +268,7 @@ Four diverse projects: fire prediction, logistics forecasting, public opinion an
 ### Machine Learning & Ops Engineer
 `Mar 2019 – Sept 2021`
 
-Where production ML became real — building customer-facing AI products in real estate.
+Where production ML became real — building customer-facing AI products in real estate. First engineering hire for ML; grew the capability from zero to production.
 
 </td>
 </tr>
@@ -271,13 +276,13 @@ Where production ML became real — building customer-facing AI products in real
 <td width="50%" valign="top">
 
 **Energy Bill Reader** — *Move Me In*
-> Customers saved **AUD 400,000** in year one. OCR + bounding box analysis parsing bills at **>85% accuracy** across Origin, AGL, EnergyAustralia and more.
+> Customers saved **AUD 400,000** in year one. OCR + bounding box analysis parsing energy bills at **>85% accuracy** across Origin, AGL, EnergyAustralia and more. Processed thousands of bills monthly, enabling automated energy plan comparisons at sign-up.
 
 </td>
 <td width="50%" valign="top">
 
 **Tenant Scoring System**
-> Two-phase extraction: custom object detection (licences, Medicare cards) + Microsoft OCR. Auto-retraining via Azure Data Factory + Databricks with CI/CD promotion.
+> Two-phase extraction pipeline: custom object detection for ID documents (licences, Medicare cards, passports) + Microsoft OCR for field extraction. Auto-retraining via Azure Data Factory + Databricks with CI/CD promotion across environments. Reduced manual tenant screening from hours to seconds.
 
 </td>
 </tr>
