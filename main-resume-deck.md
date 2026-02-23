@@ -111,7 +111,7 @@ Building the next generation of internal AI tooling at one of Australia's Big Fo
 <div align="center">
 <table width="100%">
 <tr>
-<td>
+<td colspan="2">
 
 <div align="right"><sup><b>&#x25CF; 2023</b></sup></div>
 
@@ -123,19 +123,10 @@ Building the next generation of internal AI tooling at one of Australia's Big Fo
 
 Led GenAI delivery across **5 major projects** spanning pharma, entertainment, construction, and healthcare.
 
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-
 ### Highlights from 2+ years at Bain
 
-</div>
-
-<div align="center">
-<table width="100%">
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -169,7 +160,7 @@ Led GenAI delivery across **5 major projects** spanning pharma, entertainment, c
 <div align="center">
 <table width="100%">
 <tr>
-<td>
+<td colspan="2">
 
 <div align="right"><sup><b>&#x25CF; 2022</b></sup></div>
 
@@ -183,11 +174,6 @@ Architected production MLOps for banking and delivered ML-driven clinical resear
 
 </td>
 </tr>
-</table>
-</div>
-
-<div align="center">
-<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -212,7 +198,7 @@ Architected production MLOps for banking and delivered ML-driven clinical resear
 <div align="center">
 <table width="100%">
 <tr>
-<td>
+<td colspan="4">
 
 <div align="right"><sup><b>&#x25CF; 2021</b></sup></div>
 
@@ -226,11 +212,6 @@ Four diverse projects: fire prediction, logistics forecasting, public opinion an
 
 </td>
 </tr>
-</table>
-</div>
-
-<div align="center">
-<table width="100%">
 <tr>
 <td width="25%" align="center" valign="top">
 
@@ -267,7 +248,7 @@ Four diverse projects: fire prediction, logistics forecasting, public opinion an
 <div align="center">
 <table width="100%">
 <tr>
-<td>
+<td colspan="2">
 
 <div align="right"><sup><b>&#x25CF; 2019</b></sup></div>
 
@@ -281,11 +262,6 @@ Where production ML became real — building customer-facing AI products in real
 
 </td>
 </tr>
-</table>
-</div>
-
-<div align="center">
-<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
