@@ -9,7 +9,7 @@
 *I taught machines to learn. Now I'm teaching them to think.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Divjyot-181717?style=for-the-badge&logo=github)](https://github.com/Divjyot)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/divjyotsingh/)
 
 </div>
 
@@ -451,6 +451,6 @@ International & European Studies exchange. Topped the German Language class.
 ### Let's build something intelligent together.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Divjyot-181717?style=for-the-badge&logo=github)](https://github.com/Divjyot)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/divjyotsingh/)
 
 </div>
