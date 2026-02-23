@@ -437,20 +437,27 @@ Panjab University | 2016
 <div align="center">
 <table width="100%">
 <tr>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 
 <img src="https://static.wixstatic.com/media/167b0e_8991038264b14678ba6a84a73a3d82d0~mv2.png/v1/fill/w_112,h_62,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/167b0e_8991038264b14678ba6a84a73a3d82d0~mv2.png" height="60" style="background:#f5f5f5; padding:8px 12px; border-radius:10px;" alt="YSPN logo"/>
 
-### Community
+### YSPN
 
 **Young Sikh Professional Network**<br/>
 Organised speaker events, content creation, mentoring new members
 
-**Robogals** — 150+ hours<br/>
+</td>
+<td width="25%" align="center" valign="top">
+
+<img src="logos/robogals.png.webp" height="60" style="background:#f5f5f5; padding:8px 12px; border-radius:10px;" alt="Robogals logo"/>
+
+### Robogals
+
+**150+ volunteer hours**<br/>
 Teaching kids to code with Lego Mindstorms. Road trips to rural Australia.
 
 </td>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 
 <img src="https://cdn.prod.website-files.com/678e6d991abe09b73901f4e2/67b84906e9d57bd0aa0d7373_uqlogo.webp" height="90" style="background:#f5f5f5; padding:8px; border-radius:10px;" alt="UQ logo"/>
 
@@ -460,7 +467,7 @@ Teaching kids to code with Lego Mindstorms. Road trips to rural Australia.
 Built a VR game for children's health using sponsored CaptoGlove data gloves. Collaborated with therapists, psychologists, and families across QLD universities.
 
 </td>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/University_of_T%C3%BCbingen_logo.svg/200px-University_of_T%C3%BCbingen_logo.svg.png" height="60" style="background:#f5f5f5; padding:8px; border-radius:10px;" alt="University of Tubingen logo"/>
 
