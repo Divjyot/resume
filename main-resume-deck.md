@@ -84,7 +84,9 @@ ML & Ops Engineer<br/>
 <div align="center">
 <table width="100%">
 <tr>
-<td width="90%">
+<td>
+
+<div align="right"><sup><b>&#x25CF; 2025</b></sup></div>
 
 <img src="https://avatars.githubusercontent.com/u/33970009?v=4" width="55" height="55" style="background:#f5f5f5; padding:6px; border-radius:10px;" alt="Westpac logo"/>
 
@@ -98,11 +100,6 @@ Building the next generation of internal AI tooling at one of Australia's Big Fo
 - Delivering internal solution using AI Agentic workflows
 
 </td>
-<td width="10%" align="center" valign="middle">
-
-**&#x25CF;**<br/><sub><b>2025</b></sub><br/><sub>&#x2502;</sub><br/><sub>&#x2502;</sub><br/><sub>&#x2502;</sub>
-
-</td>
 </tr>
 </table>
 </div>
@@ -114,7 +111,9 @@ Building the next generation of internal AI tooling at one of Australia's Big Fo
 <div align="center">
 <table width="100%">
 <tr>
-<td width="90%">
+<td>
+
+<div align="right"><sup><b>&#x25CF; 2023</b></sup></div>
 
 <img src="logos/bain.png" width="170" style="background:#f5f5f5; padding:10px 14px; border-radius:10px;" alt="Bain logo"/>
 
@@ -123,11 +122,6 @@ Building the next generation of internal AI tooling at one of Australia's Big Fo
 `Aug 2023 – Dec 2025`
 
 Led GenAI delivery across **5 major projects** spanning pharma, entertainment, construction, and healthcare.
-
-</td>
-<td width="10%" align="center" valign="middle">
-
-<sub>&#x2502;</sub><br/><sub>&#x2502;</sub><br/>**&#x25CF;**<br/><sub><b>2023</b></sub><br/><sub>&#x2502;</sub><br/><sub>&#x2502;</sub>
 
 </td>
 </tr>
@@ -175,7 +169,9 @@ Led GenAI delivery across **5 major projects** spanning pharma, entertainment, c
 <div align="center">
 <table width="100%">
 <tr>
-<td width="90%">
+<td>
+
+<div align="right"><sup><b>&#x25CF; 2022</b></sup></div>
 
 <img src="logos/maxkelsen.png" width="55" height="55" style="background:#f5f5f5; padding:6px; border-radius:10px;" alt="Max Kelsen logo"/>
 
@@ -184,11 +180,6 @@ Led GenAI delivery across **5 major projects** spanning pharma, entertainment, c
 `Sept 2022 – Aug 2023`
 
 Architected production MLOps for banking and delivered ML-driven clinical research for healthcare.
-
-</td>
-<td width="10%" align="center" valign="middle">
-
-<sub>&#x2502;</sub><br/><sub>&#x2502;</sub><br/>**&#x25CF;**<br/><sub><b>2022</b></sub><br/><sub>&#x2502;</sub><br/><sub>&#x2502;</sub>
 
 </td>
 </tr>
@@ -221,7 +212,9 @@ Architected production MLOps for banking and delivered ML-driven clinical resear
 <div align="center">
 <table width="100%">
 <tr>
-<td width="90%">
+<td>
+
+<div align="right"><sup><b>&#x25CF; 2021</b></sup></div>
 
 <img src="logos/ncs.png" width="140" style="background:#f5f5f5; padding:10px 14px; border-radius:10px;" alt="NCS logo"/>
 
@@ -230,11 +223,6 @@ Architected production MLOps for banking and delivered ML-driven clinical resear
 `Oct 2021 – Sept 2022`
 
 Four diverse projects: fire prediction, logistics forecasting, public opinion analysis, and computer vision.
-
-</td>
-<td width="10%" align="center" valign="middle">
-
-<sub>&#x2502;</sub><br/><sub>&#x2502;</sub><br/>**&#x25CF;**<br/><sub><b>2021</b></sub><br/><sub>&#x2502;</sub><br/><sub>&#x2502;</sub>
 
 </td>
 </tr>
@@ -279,7 +267,9 @@ Four diverse projects: fire prediction, logistics forecasting, public opinion an
 <div align="center">
 <table width="100%">
 <tr>
-<td width="90%">
+<td>
+
+<div align="right"><sup><b>&#x25CF; 2019</b></sup></div>
 
 <img src="logos/ire.png" width="170" style="background:#f5f5f5; padding:10px 14px; border-radius:10px;" alt="IRE logo"/>
 
@@ -288,11 +278,6 @@ Four diverse projects: fire prediction, logistics forecasting, public opinion an
 `Mar 2019 – Sept 2021`
 
 Where production ML became real — building customer-facing AI products in real estate.
-
-</td>
-<td width="10%" align="center" valign="middle">
-
-<sub>&#x2502;</sub><br/><sub>&#x2502;</sub><br/>**&#x25CF;**<br/><sub><b>2019</b></sub>
 
 </td>
 </tr>
