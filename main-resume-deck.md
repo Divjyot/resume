@@ -25,6 +25,7 @@
 
 </div>
 
+<div align="center">
 <table>
 <tr>
 <td width="20%" align="center" valign="top">
@@ -74,14 +75,16 @@ ML & Ops Engineer<br/>
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
 <!-- ======================== SLIDE: WESTPAC ======================== -->
 
+<div align="center">
 <table>
 <tr>
-<td width="95%">
+<td width="90%">
 
 <img src="https://avatars.githubusercontent.com/u/33970009?v=4" width="55" height="55" style="background:#f5f5f5; padding:6px; border-radius:10px;" alt="Westpac logo"/>
 
@@ -95,21 +98,23 @@ Building the next generation of internal AI tooling at one of Australia's Big Fo
 - Delivering internal solution using AI Agentic workflows
 
 </td>
-<td width="5%" align="center" valign="middle">
+<td width="10%" align="center" valign="middle">
 
 **&#x25CF;**<br/><sub><b>2025</b></sub><br/><sub>&#x2502;</sub><br/><sub>&#x2502;</sub><br/><sub>&#x2502;</sub>
 
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
 <!-- ======================== SLIDE: BAIN ======================== -->
 
+<div align="center">
 <table>
 <tr>
-<td width="95%">
+<td width="90%">
 
 <img src="logos/bain.png" width="170" style="background:#f5f5f5; padding:10px 14px; border-radius:10px;" alt="Bain logo"/>
 
@@ -120,13 +125,14 @@ Building the next generation of internal AI tooling at one of Australia's Big Fo
 Led GenAI delivery across **5 major projects** spanning pharma, entertainment, construction, and healthcare.
 
 </td>
-<td width="5%" align="center" valign="middle">
+<td width="10%" align="center" valign="middle">
 
 <sub>&#x2502;</sub><br/><sub>&#x2502;</sub><br/>**&#x25CF;**<br/><sub><b>2023</b></sub><br/><sub>&#x2502;</sub><br/><sub>&#x2502;</sub>
 
 </td>
 </tr>
 </table>
+</div>
 
 <div align="center">
 
@@ -134,6 +140,7 @@ Led GenAI delivery across **5 major projects** spanning pharma, entertainment, c
 
 </div>
 
+<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -159,14 +166,16 @@ Led GenAI delivery across **5 major projects** spanning pharma, entertainment, c
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
 <!-- ======================== SLIDE: MAX KELSEN ======================== -->
 
+<div align="center">
 <table>
 <tr>
-<td width="95%">
+<td width="90%">
 
 <img src="logos/maxkelsen.png" width="55" height="55" style="background:#f5f5f5; padding:6px; border-radius:10px;" alt="Max Kelsen logo"/>
 
@@ -177,14 +186,16 @@ Led GenAI delivery across **5 major projects** spanning pharma, entertainment, c
 Architected production MLOps for banking and delivered ML-driven clinical research for healthcare.
 
 </td>
-<td width="5%" align="center" valign="middle">
+<td width="10%" align="center" valign="middle">
 
 <sub>&#x2502;</sub><br/><sub>&#x2502;</sub><br/>**&#x25CF;**<br/><sub><b>2022</b></sub><br/><sub>&#x2502;</sub><br/><sub>&#x2502;</sub>
 
 </td>
 </tr>
 </table>
+</div>
 
+<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -201,14 +212,16 @@ Architected production MLOps for banking and delivered ML-driven clinical resear
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
 <!-- ======================== SLIDE: ARQ ======================== -->
 
+<div align="center">
 <table>
 <tr>
-<td width="95%">
+<td width="90%">
 
 <img src="logos/ncs.png" width="140" style="background:#f5f5f5; padding:10px 14px; border-radius:10px;" alt="NCS logo"/>
 
@@ -219,14 +232,16 @@ Architected production MLOps for banking and delivered ML-driven clinical resear
 Four diverse projects: fire prediction, logistics forecasting, public opinion analysis, and computer vision.
 
 </td>
-<td width="5%" align="center" valign="middle">
+<td width="10%" align="center" valign="middle">
 
 <sub>&#x2502;</sub><br/><sub>&#x2502;</sub><br/>**&#x25CF;**<br/><sub><b>2021</b></sub><br/><sub>&#x2502;</sub><br/><sub>&#x2502;</sub>
 
 </td>
 </tr>
 </table>
+</div>
 
+<div align="center">
 <table>
 <tr>
 <td width="25%" align="center" valign="top">
@@ -255,14 +270,16 @@ Four diverse projects: fire prediction, logistics forecasting, public opinion an
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
 <!-- ======================== SLIDE: IRE ======================== -->
 
+<div align="center">
 <table>
 <tr>
-<td width="95%">
+<td width="90%">
 
 <img src="logos/ire.png" width="170" style="background:#f5f5f5; padding:10px 14px; border-radius:10px;" alt="IRE logo"/>
 
@@ -273,14 +290,16 @@ Four diverse projects: fire prediction, logistics forecasting, public opinion an
 Where production ML became real — building customer-facing AI products in real estate.
 
 </td>
-<td width="5%" align="center" valign="middle">
+<td width="10%" align="center" valign="middle">
 
 <sub>&#x2502;</sub><br/><sub>&#x2502;</sub><br/>**&#x25CF;**<br/><sub><b>2019</b></sub>
 
 </td>
 </tr>
 </table>
+</div>
 
+<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -297,6 +316,7 @@ Where production ML became real — building customer-facing AI products in real
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
@@ -327,6 +347,7 @@ Where production ML became real — building customer-facing AI products in real
 
 </div>
 
+<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -358,6 +379,7 @@ Where production ML became real — building customer-facing AI products in real
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
@@ -412,6 +434,7 @@ Panjab University | 2016
 
 </div>
 
+<div align="center">
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
@@ -449,6 +472,7 @@ International & European Studies exchange. Topped the German Language class.
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
